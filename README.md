@@ -1,4 +1,5 @@
-# prova
+# UI/UX of Spotify
+This is a UI/UX base of the famous Spotify app, made in Vuejs.
 
 ## Project setup
 ```
@@ -20,5 +21,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Info
+Created by Luca Gamerro.
